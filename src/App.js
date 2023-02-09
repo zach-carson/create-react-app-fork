@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
 
-<>
+<div>
     <div class="outline">
       <div class="lecard">
         <h2>Some Nerd</h2>
